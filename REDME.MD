@@ -31,13 +31,13 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
+    </a>&nbsp
     <a href="https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
+    </a>&nbsp
     <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
+    </a>&nbsp
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a> -->
