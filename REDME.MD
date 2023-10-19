@@ -32,7 +32,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https:/https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
+    <a href="https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
