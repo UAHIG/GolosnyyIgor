@@ -36,7 +36,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>&nbsp
     <a href="https://www.facebook.com/igor.golosnyy" target="_blank">
-      <img src=".assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
+      <img src="assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
     </a>&nbsp
   </div>
 
