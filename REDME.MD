@@ -4,13 +4,13 @@
 ---
 
 ### :man_technologist: Briefly About Myself:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
 
  I started my career as a design engineer in 2005. Since 2007, I have been working in an innovative flexible packaging manufacturing company, progressing from a production preparation engineer to the position of Chief Technologist.
 
-I strive for self-improvement and constantly expand my knowledge and skills. My goal is professional growth and achieving outstanding results that contribute to the success of the company. I am willing to take responsibility and work in a dynamic environment where I can make a contribution and develop professionally. I would be delighted to join a team where my skills and enthusiasm will help achieve common goals and bring value to the organization
-
+I strive for self-improvement and constantly expand my knowledge and skills. My goal is professional growth and achieving outstanding results that contribute to the success of the company. I am willing to take responsibility and work in a dynamic environment where I can make a contribution and develop professionally.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
