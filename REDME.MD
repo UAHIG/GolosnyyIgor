@@ -8,10 +8,18 @@
 </table>
 
 <table align="center">
+
 <tr>
  <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
- <td><img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/></td>
- <td>```javascript
+ <td>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</td>
+
+ <td>
+
+```javascript
 UAHIG { 
   position: wroclaw; 
   height: 187cm; 
@@ -19,7 +27,8 @@ UAHIG {
   background: engineer; 
   color: white;
 }
-```</td>
+```
+</td>
 </tr>
 </table>
 
