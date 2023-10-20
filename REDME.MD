@@ -91,6 +91,12 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 | EPAM Front-End Self-Paced Online Program                        | 03/2022 - 08/2022 |
 | RS School Course «JavaScript/Front-end. Stage 0»                | 07/2023 - 10/2023 |
 
+### Languages:
+
+- English: B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
+- Russian: Native
+- Ukrainian: Native
+- Polish - In progress..
 
 ---
 
