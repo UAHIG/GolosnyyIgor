@@ -24,7 +24,7 @@
           <td><a href="README.md"><img src="assets/icons/united-kingdom.png" height="40"> English</a></td>
         </tr>
         <tr>
-          <td><a href="README_ua.md"><img src="assets/icons/ukraine.png" height="40">Ukraine</a></td>
+          <td><a href=".README_ua.md"><img src="assets/icons/ukraine.png" height="40">Ukraine</a></td>
         </tr>
         <tr>
           <td><a href="README_pl.md"><img src="assets/icons/republic-of-poland.png" height="40"> Polska</a></td>
