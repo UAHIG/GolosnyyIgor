@@ -36,6 +36,7 @@ UAHIG {
   <tr>
     <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
     <td>
+
       ```javascript
       UAHIG { 
         position: wroclaw; 
@@ -45,6 +46,7 @@ UAHIG {
         color: white;
       }
       ```
+
     </td>
     <td>
       <table>
