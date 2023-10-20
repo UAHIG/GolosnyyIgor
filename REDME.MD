@@ -1,3 +1,6 @@
+<img src="assets/icons/techstack.gif" alt="techstack"/>
+<img src="assets/icons/he.png" alt="CrasyWorldOfProgramming"/>
+
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
