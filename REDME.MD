@@ -1,5 +1,5 @@
 
-# Hello, my name is Igor!
+# Hello, my name is Igor!  <img src="assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
 
 ---
 
