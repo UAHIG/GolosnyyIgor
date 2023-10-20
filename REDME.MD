@@ -1,6 +1,4 @@
 
-<img src="assets/icons/he.png" alt="CrasyWorldOfProgramming"/>
-
 ---
 
 # Hello, my name is Igor! 
@@ -197,3 +195,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)] -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor&left_text=MyPageVisitors)
+
+<img src="assets/icons/he.png" alt="CrasyWorldOfProgramming"/>
