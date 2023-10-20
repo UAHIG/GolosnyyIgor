@@ -5,7 +5,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="assets/icons/techstack.gif" heigt="200px" width=200px alt="techstack"></td>
+    <td><img src="assets/icons/techstack.gif" width="190" height="190" alt="techstack"></td>
     <td>
       <pre><code>
       UAHIG { 
@@ -17,7 +17,7 @@
       }
       </code></pre>
     </td>
-    <td><img src="assets/icons/ScrUserPhoto.png" width="100%" alt="ProfilePhoto"/></td>
+    <td><img src="assets/icons/ScrUserPhoto.png" width="100%" height="100%" alt="ProfilePhoto"/></td>
     <td>
       <table>
         <tr>
