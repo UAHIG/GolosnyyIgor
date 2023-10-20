@@ -77,7 +77,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ---
 
-<!-- ### 💻 Courses:
+ ### 💻 Courses:
 
 | Course:                                                         | Date:             |
 | ----------------------------------------------------------------| :---------------: |
@@ -86,7 +86,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 | RS School Course «JavaScript/Front-end. Stage 0»                | 07/2023 - 10/2023 |
 
 
---- -->
+---
 
 ### 💻 Codewars:
 
