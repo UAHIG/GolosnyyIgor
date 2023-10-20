@@ -9,7 +9,7 @@
 
       ```javascript
       UAHIG { 
-        position: wroclaw; 
+        position: Poland; 
         height: 187cm; 
         display: boy; 
         background: engineer; 
