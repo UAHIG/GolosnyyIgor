@@ -18,6 +18,9 @@
       }
       </code></pre>
     </td>
+
+    <td><img src="assets/icons/ScrUserPhoto.png" width="200" height="200" alt="ProfilePhoto"/></td>
+
     <td>
       <table>
         <tr>
