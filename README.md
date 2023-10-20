@@ -5,7 +5,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="assets/icons/techstack.gif" width="150%" alt="techstack"></td>
+    <td><img src="assets/icons/techstack.gif" heigt="100%" alt="techstack"></td>
     <td>
       <pre><code>
       UAHIG { 
