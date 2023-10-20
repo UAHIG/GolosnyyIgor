@@ -9,7 +9,7 @@
 
 <table align="center">
 <tr>
- <td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td>
+ <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
  <td><img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/></td>
  <td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td>
 </tr>
