@@ -9,7 +9,6 @@
  <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
  
  <td>
-
 ```javascript
 UAHIG { 
   position: wroclaw; 
@@ -18,10 +17,7 @@ UAHIG {
   background: engineer; 
   color: white;
 }
-```
-</td>
-
-
+```</td>
 
 <td>
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
