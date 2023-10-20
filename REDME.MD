@@ -4,7 +4,6 @@
 ---
 
 ### :man_technologist: Briefly About Myself:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
 
@@ -22,7 +21,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 - :zap: RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IgorGolosnyy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com)
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-IgorGolosnyy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com)
 
 ---
 
@@ -40,79 +39,88 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
             <p>Linkeddin</p>
     </a>&nbsp
     <a href="https://www.facebook.com/igor.golosnyy" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-            <p>Linkeddin</p>
+      <img src="assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
     </a>&nbsp
   </div>
 
 ---
 
-
-
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp; -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp; -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp; -->
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
 ---
 
-### 🛠 Инструменты:
+### Code example: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
+```javascript
+function Counter() { let count = 0;
+this.up = function() { return ++count; }; this.down = function() { return –count; }; }
+let counter = new Counter();
+alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
+```
+### 🛠 Instruments:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+ <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; -->
 </div>
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 Courses:
 
-| Курсы                                                           | Дата              |
+| Course:                                                         | Date:             |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| Java Script learn.javascript.ru Course                          | 02/2022 - 05/2022 |
+| EPAM Front-End Self-Paced Online Program                        | 03/2022 - 08/2022 |
+| RS School Course «JavaScript/Front-end. Stage 0»                | 07/2023 - 10/2023 |
 
---- -->
+### Languages:
+
+- English: B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
+- Russian: Native
+- Ukrainian: Native
+- Polish - In progress..
+
+---
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/rsschool_3397996251c38f76/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=UAHIG&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UAHIG&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)] -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor&left_text=MyPageVisitors)
