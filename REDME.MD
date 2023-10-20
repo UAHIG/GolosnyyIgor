@@ -35,6 +35,37 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
+    <td>
+      <pre><code>
+      UAHIG { 
+        position: Poland; 
+        height: 187cm; 
+        display: boy; 
+        background: engineer; 
+        color: white;
+      }
+      </code></pre>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td>
+        </tr>
+        <tr>
+          <td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Russian</a></td>
+        </tr>
+        <tr>
+          <td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Polska</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ---
