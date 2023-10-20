@@ -10,7 +10,9 @@
 
 ---
 
-# <img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/>  Hello, my name is Igor!  <img src="assets/icons/techstack.gif" alt="techstack"/>
+# <img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/>  Hello, my name is Igor!  
+
+<img src="assets/icons/techstack.gif" alt="techstack"/>
 
 ---
 
