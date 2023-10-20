@@ -62,6 +62,14 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ---
 
+### Code example: ``` function Counter() { let count = 0;
+
+this.up = function() { return ++count; }; this.down = function() { return –count; }; }
+
+let counter = new Counter();
+
+alert( counter.up() ); alert( counter.up() ); alert( counter.down() ); ```
+
 ### 🛠 Instruments:
 
 <div>
