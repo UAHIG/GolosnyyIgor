@@ -42,7 +42,6 @@
 <!-- # <img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/> -->  
 
 ### :man_technologist: Briefly About Myself: 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" align="right">
 
 Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
 
@@ -60,7 +59,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 - :zap: RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-IgorGolosnyy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com)
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-IgorGolosnyy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" align="right">
 
 ---
 
