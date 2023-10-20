@@ -87,6 +87,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp
+  <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">&nbsp
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp -->
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp -->
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
@@ -106,7 +107,7 @@ this.up = function() { return ++count; }; this.down = function() { return –cou
 let counter = new Counter();
 alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 ```
-### 🛠 Instruments:
+### 🛠 Tools:
 
 <div>
  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp; -->
