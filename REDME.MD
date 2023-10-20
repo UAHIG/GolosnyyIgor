@@ -11,7 +11,15 @@
 <tr>
  <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
  <td><img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/></td>
- <td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td>
+ <td>```javascript
+UAHIG { 
+  position: wroclaw; 
+  height: 187cm; 
+  display: boy; 
+  background: engineer; 
+  color: white;
+}
+```</td>
 </tr>
 </table>
 
