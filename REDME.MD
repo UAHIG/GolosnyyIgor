@@ -92,7 +92,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ![codewars](https://www.codewars.com/users/rsschool_3397996251c38f76/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
@@ -107,4 +107,4 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)] -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mycv)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor)
