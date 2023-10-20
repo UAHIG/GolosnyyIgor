@@ -105,4 +105,6 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
   </tr>
 </table>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UAHIG)
