@@ -46,8 +46,8 @@ UAHIG {
         color: white;
       }
       ```
-
     </td>
+
     <td>
       <table>
         <tr>
