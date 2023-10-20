@@ -17,7 +17,8 @@
 
 ---
 
-### :man_technologist: Briefly About Myself: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+### :man_technologist: Briefly About Myself: 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" align="right">
 
 Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
 
