@@ -21,13 +21,16 @@
     <td>
       <table>
         <tr>
-          <td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td>
+          <td><a href="README.md"><img src="assets/icons/united-kingdom.png" height="13"> English</a></td>
         </tr>
         <tr>
-          <td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Russian</a></td>
+          <td><a href="README_ua.md"><img src="assets/icons/ukraine.png" height="13">Ukraine</a></td>
         </tr>
         <tr>
-          <td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Polska</a></td>
+          <td><a href="README_pl.md"><img src="assets/icons/republic-of-poland.png" height="13"> Polska</a></td>
+        </tr>
+         <tr>
+          <td><a href="README_ru.md"><img src="assets/icons/russia.png" height="13">Russian</a></td>
         </tr>
       </table>
     </td>
