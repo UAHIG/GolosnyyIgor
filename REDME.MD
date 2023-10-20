@@ -100,6 +100,12 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 - Ukrainian: Native
 - Polish - In progress..
 
+- <span style="color: green">English:</span> B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).
+- <span style="color: green">Russian:</span> Native
+- <span style="color: green">Ukrainian:</span> Native
+- <span style="color: green">Polish</span> - In progress..
+
+
 ---
 
 ### 💻 Codewars:
