@@ -59,7 +59,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 - :zap: RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-IgorGolosnyy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-IgorGolosnyy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bor_kit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:golosnyyigor@gmail.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" margine-left="30px">
 
 ---
 
