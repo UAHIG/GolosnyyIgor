@@ -104,15 +104,6 @@ this.up = function() { return ++count; }; this.down = function() { return –cou
 let counter = new Counter();
 alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 ```
-```javascript
-UAHIG { 
-  position: wroclaw; 
-  height: 187cm; 
-  display: boy; 
-  background: engineer; 
-  color: white;
-}
-```
 ### 🛠 Instruments:
 
 <div>
