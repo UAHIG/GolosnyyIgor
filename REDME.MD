@@ -107,4 +107,4 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)] -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uahig.GolosnyyIgor)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor)
