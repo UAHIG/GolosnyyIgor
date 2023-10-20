@@ -4,7 +4,6 @@
 ---
 
 ### :man_technologist: Briefly About Myself:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 Currently, I am studying programming, and as a creative individual, I have been inspired by the prospect of working as a Frontend Developer.
 
@@ -62,7 +61,9 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ---
 
-### Code example: ``` function Counter() { let count = 0;
+### Code example: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+
+```  function Counter() { let count = 0;
 
 this.up = function() { return ++count; }; this.down = function() { return –count; }; }
 
