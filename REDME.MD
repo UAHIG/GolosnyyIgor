@@ -90,7 +90,7 @@ UAHIG {
   display: boy; 
   background: engineer; 
   color: white;
-} <img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"/>
+}
 ```
 ### 🛠 Instruments:
 
