@@ -28,15 +28,29 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ### 🤝 Social natworks:
 
+<style>
+  #badges {
+    display: flex;
+    justify-content: left;
+    font-size: 10px;
+  }
+  #badges a {
+    margin: 0 10px; 
+  }
+</style>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+<p>Linkedin</p>
     </a>&nbsp
     <a href="https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+<p>Youtube</p>
     </a>&nbsp
     <a href="https://www.facebook.com/igor.golosnyy" target="_blank">
       <img src="assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
+<p>Facebook</p>
     </a>&nbsp
   </div>
 
