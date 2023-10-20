@@ -2,6 +2,15 @@
 
 # <img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/>  Hello, my name is Igor!  
 
+```Javascript
+UAHIG { 
+  position: Wroclaw; 
+  height: 187cm; 
+  display: Boy; 
+  background: Engineer; 
+  color: White 
+}
+```
 ---
 
 ### :man_technologist: Briefly About Myself:
