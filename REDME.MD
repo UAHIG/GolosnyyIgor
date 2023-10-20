@@ -61,19 +61,13 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ---
 
-### Code example: 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
-
-
-``` function Counter() { let count = 0;
-
+### Code example: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
+```javascript
+function Counter() { let count = 0;
 this.up = function() { return ++count; }; this.down = function() { return –count; }; }
-
 let counter = new Counter();
-
-alert( counter.up() ); alert( counter.up() ); alert( counter.down() ); ```
-
-
+alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
+```
 ### 🛠 Instruments:
 
 <div>
