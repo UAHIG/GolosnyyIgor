@@ -17,7 +17,7 @@
       }
       </code></pre>
     </td>
-    <td><img src="assets/icons/ScrUserPhoto.png" width="50%" height="50%" alt="ProfilePhoto"/></td>
+    <td><img src="assets/icons/ScrUserPhoto.png" width="100%" alt="ProfilePhoto"/></td>
     <td>
       <table>
         <tr>
