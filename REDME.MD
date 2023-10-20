@@ -113,4 +113,4 @@ alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)] -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GolosnyyIgor&left_text=MyPageVisitors)
