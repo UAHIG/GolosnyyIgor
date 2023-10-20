@@ -1,39 +1,8 @@
 
 <img src="assets/icons/he.png" alt="CrasyWorldOfProgramming"/>
+---
 
-<table align="center">
-  <tr>
-    <td><img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"></td>
-    
-<td>
-
-      ```javascript
-      UAHIG { 
-        position: Poland; 
-        height: 187cm; 
-        display: boy; 
-        background: engineer; 
-        color: white;
-      }
-      ```
-</td>
-
-    <td>
-      <table>
-        <tr>
-          <td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td>
-        </tr>
-        <tr>
-          <td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Russian</a></td>
-        </tr>
-        <tr>
-          <td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Polska</a></td>
-        </tr>
-      </table>
-    </td>
-
-  </tr>
-</table>
+# Hello, my name is Igor! 
 
 <table align="center">
   <tr>
@@ -65,17 +34,9 @@
   </tr>
 </table>
 
-
-
-
 ---
 
 <!-- # <img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/> -->  
-# Hello, my name is Igor!  
-
-<img src="assets/icons/techstack.gif" width="200" height="200" alt="techstack"/>
-
----
 
 ### :man_technologist: Briefly About Myself: 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" align="right">
