@@ -30,13 +30,13 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/uahig" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="60" height="60" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>&nbsp
     <a href="https://www.youtube.com/channel/UCgcxZzGi8XoV2yLlTaeqKXw" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="60" height="60" alt="Youtube"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>&nbsp
     <a href="https://www.facebook.com/igor.golosnyy" target="_blank">
-      <img src="assets/icons/facebook.png" width="60" height="60" alt="Facebook"/>
+      <img src="assets/icons/facebook.png" width="40" height="40" alt="Facebook"/>
     </a>&nbsp
   </div>
 
@@ -90,7 +90,7 @@ I strive for self-improvement and constantly expand my knowledge and skills. My 
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/rsschool_3397996251c38f76/badges/large)
 
 ### ⚙️ GitHub статистика:
 
