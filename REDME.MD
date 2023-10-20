@@ -2,15 +2,6 @@
 
 # <img src="assets/icons/ScrUserPhoto.png" width="100" height="100" alt="ProfilePhoto"/>  Hello, my name is Igor!  
 
-```javascript
-UAHIG { 
-  position: wroclaw; 
-  height: 187cm; 
-  display: boy; 
-  background: engineer; 
-  color: white;
-}
-```
 ---
 
 ### :man_technologist: Briefly About Myself:
@@ -79,6 +70,15 @@ function Counter() { let count = 0;
 this.up = function() { return ++count; }; this.down = function() { return –count; }; }
 let counter = new Counter();
 alert( counter.up() ); alert( counter.up() ); alert( counter.down() );
+```
+```javascript
+UAHIG { 
+  position: wroclaw; 
+  height: 187cm; 
+  display: boy; 
+  background: engineer; 
+  color: white;
+}
 ```
 ### 🛠 Instruments:
 
